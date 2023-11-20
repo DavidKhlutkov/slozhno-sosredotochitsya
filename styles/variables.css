@@ -7,11 +7,15 @@
   --stroke-color: #ff0070;
   --button-color: #ff007066;
   --border-color: #ff0070;
+  --opacityborder-color: #ff007040;
   --decor-color: #ff0070;
   --cover-image: url(../images/cover-image-dark.png);
   --accent-font: 'IBM Plex Mono';
   --border-size: 25px;
   --block-retreat: clamp(10px, 0.264rem + 1.54vw, 20px);
+  --main-gap-retreat: clamp(50px, 1.336rem + 7.63vw, 80px);
+  --main-block-start-retreat: clamp(40px, 1.307rem + 5.09vw, 60px);
+  --main-block-end-retreat: clamp(50px, 2.764rem + 1.54vw, 60px);
   --main-block-retreat: clamp(40px, 1.778rem + 3.08vw, 60px);
   --mobile-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --comp-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
