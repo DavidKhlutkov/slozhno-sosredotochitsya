@@ -130,7 +130,7 @@
 }
 
 .header__theme-menu-button:hover {
-  border-color: var(--opacityborder-color, #ff007040);
+  border-color: var(--button-color, #ff007040);
 }
 
 .header__theme-menu-button:focus {
@@ -138,7 +138,7 @@
 }
 
 .header__theme-menu-button:focus-visible {
-  border-block-end: 1px solid currentColor
+  border-block-end: 1px solid currentColor;
 }
 
 .header__theme-menu-button_active:disabled {
@@ -174,7 +174,7 @@
 }
 
 .title {
-  color: var(--accent-color, #ff0070);
+  color: var(--stroke-color, #ff0070);
   font-weight: 700;
   font-size: inherit;
   line-height: inherit;

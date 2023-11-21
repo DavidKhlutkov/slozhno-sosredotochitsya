@@ -6,8 +6,7 @@
   --text-color: #353430;                    
   --stroke-color: #353430;
   --button-color: #32312d66;      
-  --border-color: #353430;
-  --opacityborder-color: #32312d66;                  
+  --border-color: #353430;                  
   --decor-color: transparent;
   --cover-image: url(../images/cover-image-light.png);
   --block-retreat: clamp(10px, 0.264rem + 1.54vw, 20px);
